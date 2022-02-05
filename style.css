@@ -1,0 +1,49 @@
+﻿body {
+    background:transparent url("https://i.imgur.com/6KuXFrW.jpeg") repeat-y fixed 39px -50px;
+    background-color: #1C1C1C;
+    color: white;
+}
+
+body h1 {
+        color: #FFFFFF;
+        background: #1C1C1C;
+        text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px;
+        color: #FFFFFF;
+        font-family: "Comic Sans MS", cursive, sans-serif;
+        font-size: 70px;
+        letter-spacing: -1.6px;
+        word-spacing: 0.6px;
+        color: #000000;
+        font-weight: 700;
+        text-decoration: none solid rgb(68, 68, 68);
+        font-style: normal;
+        font-variant: normal;
+        text-transform: none;
+    }
+
+body div img {
+        border-width: 30px;
+        border-style: ridge;
+        border-color: #00A1A4;
+        border-radius: 24px 4px 36px 0px;
+    }
+
+.big-btn {
+    width: 1200px;
+    background: transparent url("https://c.tenor.com/QusFIXI3Wf0AAAAC/dream-dream-minecraft.gif");
+    height: 400px;
+    position: relative;
+    bottom: 1000px;
+    left: 40%;
+}
+
+.strokeme {
+    color: white;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+.moveme {
+    position: relative;
+    bottom: 900px;
+    left: 50%;
+}
